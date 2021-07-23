@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1525370639 source:c:\users\paulo\desktop\unifei\aeds ii\trabalho\main.cpp
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<fstream>
+	<vector>
+	"trie.h"
+
+1525520696 c:\users\paulo\desktop\unifei\aeds ii\trabalho\trie.h
+
+1525520759 source:c:\users\paulo\desktop\unifei\aeds ii\trabalho\trie.cpp
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<fstream>
+	<vector>
+	"trie.h"
+
+1525195872 c:\users\paulo\desktop\unifei\aeds ii\trabalho\corretor.h
+	"trie.h"
+
+1525195916 source:c:\users\paulo\desktop\unifei\aeds ii\trabalho\corretor.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"trie.h"
+	"corretor.h"
+
+1525370640 source:c:\users\paulo\desktop\unifei\3° semestre\aeds ii\trabalho\main.cpp
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<fstream>
+	<vector>
+	"trie.h"
+
+1525520698 c:\users\paulo\desktop\unifei\3° semestre\aeds ii\trabalho\trie.h
+
+1525520760 source:c:\users\paulo\desktop\unifei\3° semestre\aeds ii\trabalho\trie.cpp
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<fstream>
+	<vector>
+	"trie.h"
+
+1525370640 source:c:\users\paulo sérgio\documents\unifei\3° semestre\aeds ii\trabalho\main.cpp
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<fstream>
+	<vector>
+	"trie.h"
+
+1525520698 c:\users\paulo sérgio\documents\unifei\3° semestre\aeds ii\trabalho\trie.h
+
+1525520760 source:c:\users\paulo sérgio\documents\unifei\3° semestre\aeds ii\trabalho\trie.cpp
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<fstream>
+	<vector>
+	"trie.h"
+
+1525356240 source:c:\users\paulo\downloads\trabalho\main.cpp
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<fstream>
+	<vector>
+	"trie.h"
+
+1525506298 c:\users\paulo\downloads\trabalho\trie.h
+
+1525506360 source:c:\users\paulo\downloads\trabalho\trie.cpp
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<fstream>
+	<vector>
+	"trie.h"
+
